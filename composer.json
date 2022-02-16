@@ -1,0 +1,13 @@
+{
+    "name": "orlov/sample-form-validation",
+    "authors": [
+        {
+            "name": "orlov",
+            "email": "yuraigle@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "rakit/validation": "^1.4"
+    }
+}
